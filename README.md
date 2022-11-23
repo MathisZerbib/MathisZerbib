@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-![](https://github.com/MathisZerbib/MathisZerbib/blob/main/fullstackdeveloper.gif)
+<img src="https://github.com/MathisZerbib/MathisZerbib/blob/main/fullstackdeveloper.gif"  height="150"/>
 
-
-- 🔭 I’m currently looking for an internship for Epitech Shcool.
-- 🌱 I’m currently learning React.
-- 💬 Ask me about NodeJs, scrapingJs and crypto/blockchain
+- 👨‍🎓 at Epitech Shcool.
+- 🌱 growing Flutter.
+- 💬 Ask me about the wifi router of my Grand Mother and the smartphone repair shop that I don't own, 
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: ...?
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathisZerbib)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathisZerbib)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mathisZerbib)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
