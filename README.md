@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/MathisZerbib/MathisZerbib/blob/main/fullstackdeveloper.gif"  height="150"/>
+![](https://github.com/MathisZerbib/MathisZerbib/blob/main/fullstackdeveloper.gif)
 
 - 👨‍🎓 at Epitech Shcool
 - 🌱 growing Flutter
