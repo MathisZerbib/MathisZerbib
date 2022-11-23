@@ -4,7 +4,8 @@
 
 - 👨‍🎓 at Epitech Shcool.
 - 🌱 growing Flutter.
-- 💬 Ask me about the wifi router of my Grand Mother and the smartphone repair shop that I don't own, 
+- 💬 Ask me about the smartphone repair shop that I don't own.
+- 👵 Or the wifi router of my Grand Mother, you choose. 
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: ...?
 
