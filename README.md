@@ -4,5 +4,5 @@
 
 - 👨‍🎓 M2 at Epitech Shcool
 - 🌱 growing Flutter
-- 💬 Ask me about NodeJs, webScrapping, dev web & mobile
+- 💬 Ask me about NodeJs, dev web & mobile dev
 - 👷‍♂️ I'm available for freelancing
