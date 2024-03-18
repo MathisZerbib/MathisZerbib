@@ -34,7 +34,7 @@ see more at .github/workflows
 
 
 <div align="center">
-    <img src="style-hack.svg" width="400" height="400" alt="css-in-readme">
+    <img src="https://raw.githubusercontent.com/MathisZerbib/MathisZerbib/main/style-hack.svg" width="400" height="400" alt="css-in-readme">
 </div>
 
 
