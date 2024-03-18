@@ -1,4 +1,4 @@
-### Bonjour ! 👋
+### Dynamic message from .github/workflows
 <h2 align="center" style="font-size: 2rem; color: #333;">Good afternoon 🌅! My name is Mathis Zerbib and I'm a FullStack dev, from Montpellier</h2>
 
 ###
