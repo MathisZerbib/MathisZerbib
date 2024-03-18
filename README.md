@@ -1,4 +1,4 @@
-### Automated greeting message made myself :green_heart: 
+### Automated greeting message made by myself :green_heart: 
 with a custom workflows
 
 
