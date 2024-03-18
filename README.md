@@ -60,12 +60,6 @@
 <img src="https://raw.githubusercontent.com/MathisZerbib/MathisZerbib/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
 - 👨‍🎓 M2 at Epitech Shcool
 - 🌱 growing Flutter
 - 💬 Ask me about NodeJs, dev web & mobile dev
