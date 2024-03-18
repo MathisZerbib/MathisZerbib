@@ -70,7 +70,7 @@ see more at .github/workflows
 <img src="https://raw.githubusercontent.com/MathisZerbib/MathisZerbib/output/snake.svg" alt="Snake animation" />
 
 ###
-- 👨‍🎓 M2 at Epitech Shcool
-- 🌱 growing Flutter
+- 👨‍🎓 M2 at Epitech Shcool graduated in July 2024
+- 🌱 ML, RL, sckit.learn, gym
 - 💬 Ask me about NodeJs, dev web & mobile dev
 - 👷‍♂️ I'm available for freelancing
