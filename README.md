@@ -1,5 +1,5 @@
-### Automated greeting message made by myself :green_heart: 
-with a custom workflows
+### Automated greeting message made by myself :green_heart: 🤖
+see more at .github/workflows
 
 
 
