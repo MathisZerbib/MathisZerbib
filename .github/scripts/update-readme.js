@@ -33,5 +33,6 @@ const eveningRegex = /<div align="center" style="margin: 20px 0;">\s*<h2 style="
 let updatedContent = content.replace(morningRegex, formattedGreeting);
 updatedContent = updatedContent.replace(afternoonRegex, formattedGreeting);
 updatedContent = updatedContent.replace(eveningRegex, formattedGreeting);
+updatedContent = updatedContent.replace('!', '');
 
 fs.writeFileSync(readmePath, updatedContent);
