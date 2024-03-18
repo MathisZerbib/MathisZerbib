@@ -1,5 +1,5 @@
 ### Bonjour ! 👋
-<h2 align="center">Hi 👋! My name is Mathis Zerbib and I'm a FullStack dev, from Montpellier</h2>
+<h2 align="center" style="font-size: 2rem; color: #333;">Hi 👋! My name is Mathis Zerbib and I'm a FullStack dev, from Montpellier</h2>
 
 ###
 
