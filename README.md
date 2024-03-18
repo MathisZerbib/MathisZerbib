@@ -34,15 +34,14 @@ see more at .github/workflows
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/MathisZerbib/MathisZerbib/main/style-hack.svg" width="400" height="400" alt="css-in-readme">
-    <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" style="animation: wave 10s infinite;" />
+     <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" style="animation: wave 10s infinite;" />
                 <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" style="animation: wave 10s infinite;" />
                 <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" style="animation: wave 10s infinite;" />
                 <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" style="animation: wave 10s infinite;" />
                 <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" style="animation: wave 10s infinite;" />
                 <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" style="animation: wave 10s infinite;" />
                 <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" style="animation: wave 10s infinite;" />
-                <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" style="animation: wave 10s infinite;" />
+                <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" style="animation: wave 10s infinite;" />>
 </div>
 
 
