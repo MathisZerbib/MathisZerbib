@@ -15,16 +15,14 @@ if (currentHour < 12) {
 
 let content = fs.readFileSync(readmePath, 'utf8');
 
-if (content.includes('Hi 👋!')) {
-    let updatedContent = content.replace(/Hi 👋!/, greetingText);
-    fs.writeFileSync(readmePath, updatedContent);
-} else if(content.includes('Good morning 🌞!')) {
-    let updatedContent = content.replace(/Good morning 🌞!/, greetingText);
-    fs.writeFileSync(readmePath, updatedContent);
-} else if (content.includes('Good afternoon 🌅!) {
-    let updatedContent = content.replace(/Good afternoon 🌅!/, greetingText);
-    fs.writeFileSync(readmePath, updatedContent);
-} else {
-    let updatedContent = content.replace(/Good evening 🌇!/, greetingText);
-    fs.writeFileSync(readmePath, updatedContent);
+const greetings = ['Hi 👋!', 'Good morning 🌞!', 'Good afternoon 🌅!', 'Good evening 🌇!'];
+
+let updatedContent = content;
+for (let greeting of greetings) {
+    if (content.includes(greeting)) {
+        updatedContent = updatedContent.replace(new RegExp(greeting, 'g'), greetingText);
+        break;
+    }
 }
+
+fs.writeFileSync(readmePath, updatedContent);
