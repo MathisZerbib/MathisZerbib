@@ -1,5 +1,4 @@
-### Automated greeting message made by myself :green_heart: 🤖
-see more at .github/workflows
+### Automated greeting message in gist
 
 
 
