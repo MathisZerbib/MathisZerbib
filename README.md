@@ -1,5 +1,3 @@
-### Automated greeting message in gist
-
 
 
 
