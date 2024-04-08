@@ -54,6 +54,10 @@
   </a>
 </div>
 
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathisZerbib&theme=github_dark" alt="Mathis Zerbib's GitHub Stats"/>
+</div>
+
 ###
 
 <div align="center">
