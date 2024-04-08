@@ -80,7 +80,7 @@ Feel free to reach out for collaborations, let's innovate together! </p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-  <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge&logo=yaml&logoColor=purple" alt="YAML"/>
+  <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
   <img src="https://img.shields.io/badge/LINUX-0A0A0A?style=for-the-badge&logo=linux&logoColor=white" alt="LINUX"/>
 
  <br clear="both">
