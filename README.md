@@ -13,10 +13,10 @@
 </div>
 
 <br clear="both">
+<br clear="both">
 
 
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
@@ -34,6 +34,7 @@
 </div>
 
 <br clear="both">
+<br clear="both">
 
 
 ### 
@@ -43,6 +44,9 @@
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my website https://mathiszerbib.github.io/dev/ 
+<br clear="both">
+<br clear="both">
+
 Feel free to reach out for collaborations, let's innovate together! </p>
 <div align="center">
   <a href="https://discord.com/users/564153086201823232" target="_blank">
@@ -59,6 +63,7 @@ Feel free to reach out for collaborations, let's innovate together! </p>
 </div>
 
 
+<br clear="both">
 <br clear="both">
 
 
