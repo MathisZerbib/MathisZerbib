@@ -35,6 +35,7 @@ Feel free to reach out for collaborations, let's innovate together! </p>
   <a href="https://www.linkedin.com/in/mathis-zerbib-55b4a8163/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+ <br clear="both">
 <img src="https://komarev.com/ghpvc/?username=mathisZerbib&style=for-the-badge" alt="Profile views" />
 </div>
 
