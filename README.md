@@ -16,7 +16,7 @@
 <br clear="both">
 
 
-<h2 align="center" class="section-heading">💻 Programming Languages</h2>
+<h2 align="center" class="section-heading">Programming Languages 💻</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
@@ -42,7 +42,7 @@
 
 
 <div align="center">
-<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+<h2 align="center" class="section-heading">Connect with Me 🌐</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my website https://mathiszerbib.github.io/dev/ 
 <br clear="both">
 <br clear="both">
@@ -75,7 +75,7 @@ Feel free to reach out for collaborations, let's innovate together! </p>
 
 <div align="center">
  
-   <h2>🚀 Github Commits</h2>
+   <h2>Github Commits 🚀</h2>
     <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
 
 
@@ -94,9 +94,6 @@ Feel free to reach out for collaborations, let's innovate together! </p>
 
 
 
-
-
-
 <br clear="both">
 
 <br clear="both">
@@ -108,5 +105,12 @@ Feel free to reach out for collaborations, let's innovate together! </p>
 
 
 <div align="center">
+    <h2>Snake 🐍</h2>
+    <p>Little snake implemented by a github-action, like my welcome message at the top of this readme that is updated by your time-zone, you can find more under 
+     <br clear="both">
+     [.github/workflows/] (https://github.com/MathisZerbib/MathisZerbib/tree/main/.github/workflows)
+     <br clear="both"> 
+    [.github/scripts/] (https://github.com/MathisZerbib/MathisZerbib/tree/main/.github/scripts)</p>
+
 <img src="https://raw.githubusercontent.com/MathisZerbib/MathisZerbib/output/snake.svg" alt="Snake animation"/>
 </div>
