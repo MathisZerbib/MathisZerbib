@@ -8,7 +8,10 @@
 
 
 <div align="center">
+ <br clear="both">
+
 <p> <img height="100" src="https://raw.githubusercontent.com/MathisZerbib/MathisZerbib/main/fullstackdeveloper.gif" alt="funny developper gif"/> </p>
+<br clear="both">
     <p>I am Mathis Zerbib, a versatile full-stack developer hailing from Montpellier, located in the southern region of France 🇫🇷. My technical expertise spans a wide array of domains, encompassing web and mobile application development, cloud computing and containerization technologies, and even CRM systems implementation. With my diverse skill set, I can tackle a broad range of software engineering challenges.</p>
 </div>
 
@@ -17,6 +20,8 @@
 
 
 <h2 align="center" class="section-heading">Programming Languages 💻</h2>
+<br clear="both">
+
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
@@ -77,6 +82,7 @@ Feel free to reach out for collaborations, let's innovate together! </p>
  
    <h2>Github Commits 🚀</h2>
     <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
+<br clear="both">
 
 
 <div align="center">
@@ -84,6 +90,7 @@ Feel free to reach out for collaborations, let's innovate together! </p>
   
  <img src="https://streak-stats.demolab.com?user=MathisZerbib&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
+<br clear="both">
 
 <div align="center">
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathisZerbib&theme=github_dark" alt="Mathis Zerbib's GitHub Stats"/>
@@ -107,6 +114,7 @@ Feel free to reach out for collaborations, let's innovate together! </p>
 <div align="center">
     <h2>Snake 🐍</h2>
     <p>Little snake implemented by a github-action, like my welcome message at the top of this readme that is updated by your time-zone, you can find more under 
+     <br clear="both">
      <br clear="both">
      [.github/workflows/] (https://github.com/MathisZerbib/MathisZerbib/tree/main/.github/workflows)
      <br clear="both"> 
