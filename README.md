@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
   <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML"/>
-  <img src="https://img.shields.io/badge/LINUX-0A0A0A?style=for-the-badge&logo=linux&logoColor=white" alt="LINUX"/>
+  <img src="https://img.shields.io/badge/LINUX-FFFFFF?style=for-the-badge&logo=linux&logoColor=black" alt="LINUX"/>
 
  <br clear="both">
   <img src="https://img.shields.io/badge/Flutter-0096D8?style=for-the-badge&logo=flutter&logoColor=blue" alt="Flutter"/>
