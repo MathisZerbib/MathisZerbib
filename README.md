@@ -48,8 +48,14 @@
 
 <div align="center">
 <h2 align="center" class="section-heading">Connect with Me 🌐</h2>
-<p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my website https://mathiszerbib.github.io/dev/ 
+<p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my website <br clear="both">
+
+ https://mathiszerbib.github.io/dev
 <br clear="both">
+ <br clear="both">
+ I'm also currently building my new portfolio with Astro ! <br clear="both">
+
+https://portfolio-mathis-zerbib.vercel.app
 <br clear="both">
 
 Feel free to reach out for collaborations, let's innovate together! </p>
