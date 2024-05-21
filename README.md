@@ -119,7 +119,7 @@ Feel free to reach out for collaborations, let's innovate together! </p>
 
 <div align="center">
     <h2>Snake 🐍</h2>
-    <p>Little snake implemented by a github-action, like my welcome message at the top of this readme that is updated by your time-zone, you can find more under 
+    <p>Little snake implemented with a github-action, I also did my welcome message at the top of this readme and it's updated by your time-zone, you can find more under 
      <br clear="both">
      <br clear="both">
      [.github/workflows/] (https://github.com/MathisZerbib/MathisZerbib/tree/main/.github/workflows)
