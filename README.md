@@ -55,7 +55,7 @@
  <br clear="both">
  I'm also currently building my new portfolio with Astro ! <br clear="both">
 
-https://portfolio-mathis-zerbib.vercel.app
+https://mathis-zerbib.vercel.app
 <br clear="both">
 
 Feel free to reach out for collaborations, let's innovate together! </p>
