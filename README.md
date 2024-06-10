@@ -45,15 +45,6 @@
 
 <div align="center">
 <h2 align="center" class="section-heading">Connect with Me 🌐</h2>
-<p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my website <br clear="both">
-
- https://mathiszerbib.github.io/dev
-<br clear="both">
- <br clear="both">
- I'm also currently building my new portfolio with Astro ! <br clear="both">
-
-https://mathis-zerbib.vercel.app
-<br clear="both">
 
 Feel free to reach out for collaborations, let's innovate together! </p>
 <div align="center">
@@ -67,6 +58,11 @@ Feel free to reach out for collaborations, let's innovate together! </p>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
  <br clear="both">
+  <br clear="both">
+ <p> 
+ I'm currently building my new portfolio ! <br clear="both">
+https://mathis-zerbib.vercel.app</p>
+<br clear="both">
 <img src="https://komarev.com/ghpvc/?username=mathisZerbib&style=for-the-badge" alt="Profile views" />
 </div>
 
