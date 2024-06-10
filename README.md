@@ -12,7 +12,7 @@
 
 <p> <img height="100" src="https://raw.githubusercontent.com/MathisZerbib/MathisZerbib/main/fullstackdeveloper.gif" alt="funny developper gif"/> </p>
 <br clear="both">
-    <p>I am Mathis Zerbib, a versatile full-stack developer hailing from Montpellier, located in the southern region of France 🇫🇷. My technical expertise spans a wide array of domains, encompassing web and mobile application development, cloud computing and containerization technologies, and even CRM systems implementation. With my diverse skill set, I can tackle a broad range of software engineering challenges.</p>
+    <p>I am Mathis Zerbib, mobile and web full-stack developer hailing from Montpellier, located in the southern region of France 🇫🇷. My technical expertise spans a wide array of domains, encompassing web and mobile application development, cloud computing and containerization technologies, and even CRM systems implementation. With my diverse skill set, I can tackle a broad range of software engineering challenges.</p>
 </div>
 
 <br clear="both">
