@@ -1,23 +1,29 @@
-
-
-
 <div align="center" style="margin: 20px 0;">
  <h2 style="font-size: 2rem; color: #333; margin-bottom: 10px;">Good evening 🌇!</h2>
 </div>
-
-
 
 <div align="center">
  <br clear="both">
 
 <p> <img height="100" src="https://raw.githubusercontent.com/MathisZerbib/MathisZerbib/main/fullstackdeveloper.gif" alt="funny developper gif"/> </p>
 <br clear="both">
-    <p>I am Mathis Zerbib, mobile and web full-stack developer hailing from Montpellier, located in the southern region of France 🇫🇷. My technical expertise spans a wide array of domains, encompassing web and mobile application development, cloud computing and containerization technologies, and even CRM systems implementation. With my diverse skill set, I can tackle a broad range of software engineering challenges.</p>
+    <p>I am Mathis Zerbib, mobile and web full-stack developer hailing from Montpellier, located in the southern region of France 🇫🇷.</p>
 </div>
 
-<br clear="both">
-<br clear="both">
+<div align="center">
+ <h2>My Own Open Source Projects 🌟</h2>
+    <p>Here are some of my recent open source projects:</p>
+    
+   <h3>Instagram Reels Cost Calculator</h3>
+   <p>An interactive tool to estimate the cost of creating Instagram Reels based on various factors.</p>
+   <a href="https://mathiszerbib.github.io/calculateur-reels-instagram/" target="_blank">
+       <img src="https://img.shields.io/badge/View_Project-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+   </a>
+</div>
 
+
+<br clear="both">
+<br clear="both">
 
 <h2 align="center" class="section-heading">Programming Languages 💻</h2>
 <br clear="both">
@@ -37,11 +43,6 @@
 
 <br clear="both">
 <br clear="both">
-
-
-### 
-
-
 
 <div align="center">
 <h2 align="center" class="section-heading">Connect with Me 🌐</h2>
@@ -66,23 +67,14 @@ https://mathis-zerbib.vercel.app</p>
 <img src="https://komarev.com/ghpvc/?username=mathisZerbib&style=for-the-badge" alt="Profile views" />
 </div>
 
-
 <br clear="both">
 <br clear="both">
-
-
-
- 
-###
-
-
 
 <div align="center">
  
    <h2>Github Commits 🚀</h2>
     <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
 <br clear="both">
-
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MathisZerbib&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -95,29 +87,19 @@ https://mathis-zerbib.vercel.app</p>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathisZerbib&theme=github_dark" alt="Mathis Zerbib's GitHub Stats"/>
 </div>
 
-
-
-
-
-
 <br clear="both">
 
 <br clear="both">
-
-
-
-
-###
-
 
 <div align="center">
-    <h2>Snake 🐍</h2>
-    <p>Little snake implemented with a github-action, I also did my welcome message at the top of this readme and it's updated by your time-zone, you can find more under 
-     <br clear="both">
-     <br clear="both">
-     [.github/workflows/] (https://github.com/MathisZerbib/MathisZerbib/tree/main/.github/workflows)
-     <br clear="both"> 
-    [.github/scripts/] (https://github.com/MathisZerbib/MathisZerbib/tree/main/.github/scripts)</p>
+   <h3>GitHub Profile Enhancement</h3>
+   <p>I've implemented a little snake animation and a dynamic welcome message using GitHub Actions. You can find more under:</p>
+   <a href="https://github.com/MathisZerbib/MathisZerbib/tree/main/.github/workflows" target="_blank">
+       <img src="https://img.shields.io/badge/Workflows-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Workflows"/>
+   </a>
+   <a href="https://github.com/MathisZerbib/MathisZerbib/tree/main/.github/scripts" target="_blank">
+       <img src="https://img.shields.io/badge/Scripts-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Scripts"/>
+   </a>
 
 <img src="https://raw.githubusercontent.com/MathisZerbib/MathisZerbib/output/snake.svg" alt="Snake animation"/>
 </div>
