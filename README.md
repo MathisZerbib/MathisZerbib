@@ -22,9 +22,9 @@
 
    <br clear="both">
 
-   <h3> Secret Santa Family Wishlist </h3>
-   <p>A Secret Santa Wishlist that allows families to effortlessly add, search for, and track the status of all their gifts </p>
-   <a href="https://mathiszerbib.github.io/secret-santa-familly-wishlist" target="_blank">
+   <h3>Public Secret Santa Wishlist </h3>
+   <p>A Secret Santa Wishlist that allows community to effortlessly add, search for, and track the status of all their gifts </p>
+   <a href="[https://mathiszerbib.github.io/secret-santa-familly-wishlist](https://secret-santa-wishlist.vercel.app/)" target="_blank">
        <img src="https://img.shields.io/badge/View_Project-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
    </a>
    
