@@ -24,7 +24,7 @@
 
    <h3>Public Secret Santa Wishlist </h3>
    <p>A Secret Santa Wishlist that allows community to effortlessly add, search for, and track the status of all their gifts </p>
-   <a href="[https://mathiszerbib.github.io/secret-santa-familly-wishlist](https://secret-santa-wishlist.vercel.app/)" target="_blank">
+   <a href="https://secret-santa-wishlist.vercel.app/" target="_blank">
        <img src="https://img.shields.io/badge/View_Project-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
    </a>
    
