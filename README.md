@@ -54,11 +54,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </div>
 
-<div align="center">
-  <h2>Quick Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiszerbib&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
 <br clear="both">
 <br clear="both">
 
