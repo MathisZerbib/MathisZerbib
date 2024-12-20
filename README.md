@@ -10,8 +10,50 @@
     <p>I am Mathis Zerbib, mobile and web full-stack developer hailing from Montpellier, located in the southern region of France 🇫🇷.</p>
 </div>
 
-<h1 align="center">My Open Source Projects 🚀</h1> <div align="center"> <p>Innovative web solutions crafted with passion and precision with:</p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/> </div> <br clear="both"> <table align="center"> <tr> <td align="center"> <h3>Instagram Reels Cost Calculator</h3> <p>An interactive tool to estimate the cost of creating Instagram Reels based on various factors.</p> <a href="https://mathiszerbib.github.io/calculateur-reels-instagram/" target="_blank"> <img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=instagram&logoColor=white" alt="View Project"/> </a> </td> <td align="center"> <h3>Public Secret Santa Wishlist</h3> <p>A platform for communities to effortlessly add, search for, and track the status of all their Secret Santa gifts.</p> <a href="https://secret-santa-wishlist.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/View_Project-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/> </a> </td> </tr> <tr> <td align="center"> <h3>Public Camelot Wheel</h3> <p>A visual representation of the Camelot Wheel for music key relationships.</p> <a href="https://camelot-wheel-sigma.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/View_Project-1E90FF?style=for-the-badge&logo=react&logoColor=white" alt="View Project"/> </a> </td> <td align="center"> <h3>Bitcoin HODL App</h3> <p>A tool to visualize and track Bitcoin holdings over time.</p> <a href="https://btc-hodl-app.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/View_Project-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="View Project"/> </a> </td> </tr> </table>
-
+<h1 align="center">My Open Source Projects 🚀</h1>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>Instagram Reels Cost Calculator</h3>
+      <p>An interactive tool to estimate the cost of creating Instagram Reels based on various factors.</p>
+      <a href="https://mathiszerbib.github.io/calculateur-reels-instagram/" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=instagram&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
+    <td align="center">
+      <h3>Public Secret Santa Wishlist</h3>
+      <p>A platform for communities to effortlessly add, search for, and track the status of all their Secret Santa gifts.</p>
+      <a href="https://secret-santa-wishlist.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-FF4500?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>AE French Tax Calculator</h3>
+      <p>A tool to calculate French taxes based on various factors.</p>
+      <a href="https://ae-french-tax.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
+    <td align="center">
+      <h3>Public Camelot Wheel</h3>
+      <p>A visual representation of the Camelot Wheel for music key relationships.</p>
+      <a href="https://camelot-wheel-sigma.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-1E90FF?style=for-the-badge&logo=react&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Bitcoin HODL App</h3>
+      <p>A tool to visualize and track Bitcoin holdings over time.</p>
+      <a href="https://btc-hodl-app.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br clear="both">
 <br clear="both">
