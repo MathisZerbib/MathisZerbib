@@ -9,7 +9,6 @@
 <br clear="both">
     <p>I am Mathis Zerbib, mobile and web full-stack developer hailing from Montpellier, located in the southern region of France 🇫🇷.</p>
 </div>
-
 <h1 align="center">My Open Source Projects 🚀</h1>
 <table align="center">
   <tr>
@@ -50,6 +49,22 @@
       <p>A tool to visualize and track Bitcoin holdings over time.</p>
       <a href="https://btc-hodl-app.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/View_Project-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
+    <td align="center">
+      <h3>BTC Sentiment Signal</h3>
+      <p>A web app built with Vite and CoinGecko to analyze Bitcoin sentiment and gather technical info for DCA decisions.</p>
+      <a href="https://btc-sentiment-signal.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Auto Ursaff</h3>
+      <p>A web app to track declared income in French taxes, built with the Ursaff API.</p>
+      <a href="https://auto-ursaff.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
       </a>
     </td>
   </tr>
