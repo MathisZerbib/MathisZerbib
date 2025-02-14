@@ -1,0 +1,39 @@
+name: Update GitHub Skyline
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:   # Allows manual trigger
+
+jobs:
+  update-skyline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up GitHub CLI
+        run: |
+          sudo apt-get update
+          sudo apt-get install gh -y
+
+      - name: Generate Skyline ASCII Art
+        run: |
+          # Generate ASCII art for a specific year (e.g., 2024) and output to a file
+          gh skyline --year 2024 --art-only > skyline.txt
+
+      - name: Update README with Skyline
+        run: |
+          # Replace content between markers in README.md with the generated skyline
+          awk '/<!-- skyline start -->/{print; system("cat skyline.txt"); flag=1; next} /<!-- skyline end -->/{flag=0} !flag {print}' README.md > README.new.md
+          mv README.new.md README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update GitHub Skyline" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
