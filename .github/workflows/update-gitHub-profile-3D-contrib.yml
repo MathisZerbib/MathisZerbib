@@ -9,21 +9,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
       - name: Generate 3D Contribution Calendar
         uses: yoshi389111/github-profile-3d-contrib@0.6.0
-        with:
-          username: ${{ github.repository_owner }}
-          width: 800
-          height: 400
-          bg_color: 00000000
-          color: 0366d6
-          rotate: true
-          animation: true
 
       - name: Commit and Push
         run: |
