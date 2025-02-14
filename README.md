@@ -152,6 +152,7 @@ https://mathis-zerbib.vercel.app</p>
 <img src="https://raw.githubusercontent.com/MathisZerbib/MathisZerbib/output/snake.svg" alt="Snake animation"/>
 </div>
 
+<div align="center">
 <!-- skyline start -->
 ```text
 
@@ -182,6 +183,7 @@ https://mathis-zerbib.vercel.app</p>
 
 Model generation complete: 635496 total triangles
 STL file written successfully to: MathisZerbib-2024-github-skyline.stl
-```
 <!-- skyline end -->
+
+</div>
 
