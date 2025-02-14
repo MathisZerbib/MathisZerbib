@@ -28,7 +28,7 @@ jobs:
           echo "Generating Skyline for year: $last_year"
           # Wrap the ASCII art in a code block
           echo '```text' > skyline.txt
-          gh skyline --user "${{ github.repository_owner }}" --year "$last_year" --art-only >> skyline.txt
+          gh skyline --user "${{ github.repository_owner }}" --year "$last_year" >> skyline.txt
           echo '```' >> skyline.txt
 
       - name: Update README with Skyline
