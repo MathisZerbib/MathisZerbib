@@ -183,6 +183,7 @@ https://mathis-zerbib.vercel.app</p>
 
 Model generation complete: 635496 total triangles
 STL file written successfully to: MathisZerbib-2024-github-skyline.stl
+```
 <!-- skyline end -->
 
 </div>
