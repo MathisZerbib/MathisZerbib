@@ -26,7 +26,8 @@ jobs:
         run: |
           last_year=$(date -d "last year" +'%Y')
           echo "Generating Skyline for year: $last_year"
-          gh skyline --year "$last_year" --art-only > skyline.txt
+          # Specify the GitHub username using the repository owner's name
+          gh skyline --user "${{ github.repository_owner }}" --year "$last_year" --art-only > skyline.txt
 
       - name: Update README with Skyline
         run: |
