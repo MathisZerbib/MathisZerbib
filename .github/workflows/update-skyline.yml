@@ -24,13 +24,13 @@ jobs:
 
       - name: Generate ASCII Art Header
         run: |
-          figlet "Thanks for your interest" > header.txt
+          figlet "Thanks for your interest, here you can see my github skyline from last year" > header.txt
 
       - name: Generate Skyline ASCII Art for Last Year
         run: |
           last_year=$(date -d "last year" +'%Y')
           echo "Generating Skyline for year: $last_year"
-          gh skyline --user "${{ github.repository_owner }}" --year "$last_year" > skyline.txt
+          gh skyline --user "${{ github.repository_owner }}" --year "$last_year" --art-only > skyline.txt
 
       - name: Combine Header and Skyline
         run: |
