@@ -24,7 +24,7 @@ jobs:
 
       - name: Generate ASCII Art Header
         run: |
-          figlet "Mathis Zerbib" > header.txt
+          figlet "Thanks for your interest" > header.txt
 
       - name: Generate Skyline ASCII Art for Last Year
         run: |
