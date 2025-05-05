@@ -67,6 +67,13 @@
         <img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
       </a>
     </td>
+    <td align="center">
+      <h3>Sleek Quote Craft</h3>
+      <p>A quote maker using IndexedDB for fast and glazed quotes in English and French.</p>
+      <a href="https://sleek-quote-craft.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-9370DB?style=for-the-badge&logo=quote&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
   </tr>
 </table>
 
