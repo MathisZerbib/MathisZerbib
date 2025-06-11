@@ -11,6 +11,23 @@
 </div>
 <h1 align="center">My Open Source Projects 🚀</h1>
 <table align="center">
+ <tr>
+    <td align="center">
+      <h3>RepoSpark</h3>
+      <p>AI-powered GitHub repository analyzer that provides insights and summaries about any public repository.</p>
+      <a href="https://github-repo-ai.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-6e5494?style=for-the-badge&logo=github&logoColor=white" alt="RepoSpark"/>
+      </a>
+    </td>
+
+  <td align="center">
+      <h3>Sleek Quote Craft</h3>
+      <p>A quote maker using IndexedDB for fast and glazed quotes in English and French.</p>
+      <a href="https://sleek-quote-craft.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-6e5494?style=for-the-badge&logo=github&logoColor=white" alt="Sleek Quote Craft"/>
+      </a>
+    </td>
+ </tr>
   <tr>
     <td align="center">
       <h3>Instagram Reels Cost Calculator</h3>
@@ -65,13 +82,6 @@
       <p>A web app to track declared income in French taxes, built with the Ursaff API.</p>
       <a href="https://auto-ursaff.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
-      </a>
-    </td>
-    <td align="center">
-      <h3>Sleek Quote Craft</h3>
-      <p>A quote maker using IndexedDB for fast and glazed quotes in English and French.</p>
-      <a href="https://sleek-quote-craft.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/View_Project-9370DB?style=for-the-badge&logo=quote&logoColor=white" alt="View Project"/>
       </a>
     </td>
   </tr>
