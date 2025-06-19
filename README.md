@@ -9,6 +9,21 @@
 <br clear="both">
     <p>I am Mathis Zerbib, mobile and web full-stack developer hailing from Montpellier, located in the southern region of France 🇫🇷.</p>
 </div>
+<br clear="both">
+<h1 align="center">🚀 Popular Project</h1>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>Next.js SaaS Template</h3>
+      <p>A complete, production-ready SaaS starter built with Next.js 14, Auth.js, Stripe, Prisma, and more.</p>
+      <a href="https://madev.xyz" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
+  </tr>
+</table>
+<br clear="both">
 <h1 align="center">My Open Source Projects 🚀</h1>
 <table align="center">
  <tr>
