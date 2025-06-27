@@ -141,8 +141,8 @@ Feel free to reach out for collaborations, let's innovate together! </p>
  <br clear="both">
   <br clear="both">
  <p> 
- I'm currently building my new portfolio ! <br clear="both">
-https://mathis-zerbib.vercel.app</p>
+ Checkout my website, and drone portfolio ! <br clear="both">
+https://mathis-zerbib.com</p>
 <br clear="both">
 <img src="https://komarev.com/ghpvc/?username=mathisZerbib&style=for-the-badge" alt="Profile views" />
 </div>
