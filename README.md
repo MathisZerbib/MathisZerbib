@@ -140,9 +140,12 @@ Feel free to reach out for collaborations, let's innovate together! </p>
   </a>
  <br clear="both">
   <br clear="both">
- <p> 
- Checkout my website, and drone portfolio ! <br clear="both">
-https://mathis-zerbib.com</p>
+ 
+<p>
+  Checkout my website, and drone portfolio!
+  <div style="clear: both;"></div>
+  <a href="https://mathis-zerbib.com">https://mathis-zerbib.com</a>
+</p>
 <br clear="both">
 <img src="https://komarev.com/ghpvc/?username=mathisZerbib&style=for-the-badge" alt="Profile views" />
 </div>
