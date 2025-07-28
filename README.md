@@ -18,7 +18,14 @@
       <h3>Next.js SaaS Template</h3>
       <p>A complete, production-ready SaaS starter built with Next.js 14, Auth.js, Stripe, Prisma, and more.</p>
       <a href="https://madev.xyz" target="_blank">
-        <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
+        <img src="https://img.shields.io/badge/View_Project-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000" alt="View Project"/>
+      </a>
+    </td>
+    <td align="center">
+      <h3>Talent Scout</h3>
+<p>Discover top developer talent, engage with open source projects, and leverage AI-driven insights to build your dream team.</p>
+      <a href="https://talent.scout.madev.xyz" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/View_Project-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000" alt="View Project"/>
       </a>
     </td>
   </tr>
