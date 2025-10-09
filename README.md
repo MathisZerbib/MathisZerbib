@@ -16,7 +16,7 @@
 
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://drive.google.com/file/d/1quqnNm2kWQKDBHwhC_mTEjLiz0DVV1OL/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Voir%20mon%20CV-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" alt="Voir mon CV"/>
+    <img src="https://img.shields.io/badge/Voir%20mon%20CV-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" alt="View my resume"/>
   </a>
 </div>
 <br clear="both">
