@@ -194,7 +194,7 @@
 <br clear="both">
 
 <div align="center">
-<h2 align="center" class="section-heading">Connect with Me 🌐</h2>
+<h2 align="center" class="section-heading">Let's Connect</h2>
 
 Feel free to reach out for collaborations, let's innovate together! </p>
 <div align="center">
@@ -211,7 +211,7 @@ Feel free to reach out for collaborations, let's innovate together! </p>
   <br clear="both">
  
 <p>
-  Checkout my website, and drone portfolio!
+  Checkout my website (WIP)
   <div style="clear: both;"></div>
   <a href="https://mathis-zerbib.com">https://mathis-zerbib.com</a>
 </p>
