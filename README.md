@@ -4,8 +4,7 @@
 
 <div align="center">
  <br clear="both">
-
-<p> <img height="100" src="https://raw.githubusercontent.com/MathisZerbib/MathisZerbib/main/fullstackdeveloper.gif" alt="funny developper gif"/> </p>
+ 
 <br clear="both">
     <p>I am Mathis Zerbib, mobile and web full-stack developer hailing from Montpellier, located in the southern region of France 🇫🇷.</p>
 </div>
