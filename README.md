@@ -9,21 +9,18 @@
     <p>I am Mathis Zerbib, mobile and web full-stack developer hailing from Montpellier, located in the southern region of France 🇫🇷.</p>
 </div>
 
-
 <br clear="both">
 
 <h2 align="center" class="section-heading">My resume (FR)</h2>
 
 <div align="center" style="margin-bottom: 20px;">
-  <a href="https://drive.google.com/file/d/1quqnNm2kWQKDBHwhC_mTEjLiz0DVV1OL/view?usp=sharing"
-     target="_blank"
-     rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/View%20my%20resume-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white"
-         alt="View my resume"/>
-  </a>
+
+[![View my resume](https://img.shields.io/badge/View%20my%20resume-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1quqnNm2kWQKDBHwhC_mTEjLiz0DVV1OL/view?usp=sharing)
+
 </div>
 
 <br clear="both">
+
 
 
 <h1 align="center">Popular Project</h1>
