@@ -130,7 +130,7 @@
   <tr>
     <td align="center">
       <h3>Couple View</h3>
-      <p>A watch party app with peer-to-peer WebRTC for synchronized viewing experiences. Open source.</p>
+      <p>A watch party app with peer-to-peer WebRTC for synchronized viewing experiences.</p>
       <a href="https://couple-view.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=webrtc&logoColor=white" alt="View Project"/>
       </a>
