@@ -135,6 +135,22 @@
         <img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=webrtc&logoColor=white" alt="View Project"/>
       </a>
     </td>
+    <td align="center">
+      <h3>ViNotes</h3>
+      <p>Wine tasting notebook with AI-powered OCR for label scanning, grape varieties, vintage detection, and personalized cellar management.</p>
+      <a href="https://vi-notes.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-8B0000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Techno Morphosis Visualizer</h3>
+      <p>An interactive visualization tool for exploring technological evolution and transformation patterns.</p>
+      <a href="https://techno-morphosis-visualizer.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
   </tr>
 </table>
 
