@@ -119,6 +119,22 @@
         <img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
       </a>
     </td>
+    <td align="center">
+      <h3>Geospatial Algorithm Lab</h3>
+      <p>An app to visualize algorithms (Dijkstra, A*, etc.) with OpenStreetMap integration.</p>
+      <a href="https://v0-geospatial-algorithm-lab.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-00897B?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Couple View</h3>
+      <p>A watch party app with peer-to-peer WebRTC for synchronized viewing experiences. Open source.</p>
+      <a href="https://couple-view.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=webrtc&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
   </tr>
 </table>
 
