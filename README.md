@@ -122,7 +122,7 @@
     <td align="center">
       <h3>Geospatial Algorithm Lab</h3>
       <p>An app to visualize algorithms (Dijkstra, A*, etc.) with OpenStreetMap integration.</p>
-      <a href="https://v0-geospatial-algorithm-lab.vercel.app" target="_blank">
+      <a href="https://geospatial-algorithm-lab.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/View_Project-00897B?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="View Project"/>
       </a>
     </td>
