@@ -28,15 +28,40 @@
 <table align="center">
   <tr>
     <td align="center">
+      <h3>Mathis Zerbib Portfolio</h3>
+      <p>My personal portfolio website showcasing my work, skills, and projects as a full-stack developer.</p>
+      <a href="https://mathis-zerbib.com" target="_blank">
+        <img src="https://img.shields.io/badge/View_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Website"/>
+      </a>
+    </td>
+    <td align="center">
+      <h3>Interface Asso</h3>
+      <p>A professional website for Interface association, built with modern web technologies.</p>
+      <a href="https://interface-asso.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000" alt="View Project"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>Maestoso Productions</h3>
+      <p>A production company website featuring creative services and multimedia content.</p>
+      <a href="https://maestosoproductions.com" target="_blank">
+        <img src="https://img.shields.io/badge/View_Website-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Website"/>
+      </a>
+    </td>
+    <td align="center">
       <h3>Next.js SaaS Template</h3>
       <p>A complete, production-ready SaaS starter built with Next.js 14, Auth.js, Stripe, Prisma, and more.</p>
       <a href="https://madev.xyz" target="_blank">
         <img src="https://img.shields.io/badge/View_Project-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000" alt="View Project"/>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <h3>Talent Scout</h3>
-<p>Discover top developer talent, engage with open source projects, and leverage AI-driven insights to build your dream team.</p>
+      <p>Discover top developer talent, engage with open source projects, and leverage AI-driven insights to build your dream team.</p>
       <a href="https://talent.scout.madev.xyz" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/View_Project-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000" alt="View Project"/>
       </a>
@@ -243,9 +268,11 @@ Feel free to reach out for collaborations, let's innovate together! </p>
   <br clear="both">
  
 <p>
-  Checkout my website (WIP)
+  Visit my portfolio website for more information about my work and projects!
   <div style="clear: both;"></div>
-  <a href="https://mathis-zerbib.com">https://mathis-zerbib.com</a>
+  <a href="https://mathis-zerbib.com">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website"/>
+  </a>
 </p>
 <br clear="both">
 <img src="https://komarev.com/ghpvc/?username=mathisZerbib&style=for-the-badge" alt="Profile views" />
