@@ -176,6 +176,13 @@
         <img src="https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
       </a>
     </td>
+    <td align="center">
+      <h3>Kanak Clear</h3>
+      <p>A web application built with modern technologies.</p>
+      <a href="https://kanakclear.lovable.app" target="_blank">
+        <img src="https://img.shields.io/badge/View_Project-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="View Project"/>
+      </a>
+    </td>
   </tr>
 </table>
 
