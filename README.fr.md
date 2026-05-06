@@ -160,7 +160,7 @@
 <div align="center">
   <p>Présentation de mon activité quotidienne et des dépôts sur lesquels je travaille actuellement.</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=MathisZerbib&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=fr&hide_border=false" height="150" alt="stats graph" />
+ 
   <img src="https://streak-stats.demolab.com?user=MathisZerbib&locale=fr&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 
   <br><br>
