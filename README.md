@@ -21,6 +21,19 @@
 
 <table align="center" width="100%">
   <tr>
+    <td align="center">
+      <h3>🖱️ MouseOS</h3>
+      <p>Your phone becomes your computer's mouse: trackpad, air mouse, keyboard and remote for Mac, Windows, Linux and Samsung, LG or Google TV. Free, over Wi‑Fi, no account. Kotlin Multiplatform, in 8 languages.</p>
+      <em>Kotlin Multiplatform • Android • Desktop • Smart TV</em><br><br>
+      <a href="https://mouseos.app" target="_blank">
+        <img src="https://img.shields.io/badge/mouseos.app-FF4D00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="mouseos.app"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="100%">
+  <tr>
     <td align="center" width="50%">
       <h3>🍃 KanaClear</h3>
       <p>A high-performance withdrawal SaaS platform developed with Supabase and Postgres. It replaces binary "resets" with a scientific resilience score, tracking the normalization of CB1 receptors and millisecond-level savings through a scalable "Inner Forest" ecosystem.</p>

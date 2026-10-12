@@ -21,6 +21,19 @@
 
 <table align="center" width="100%">
   <tr>
+    <td align="center">
+      <h3>🖱️ MouseOS</h3>
+      <p>Votre téléphone devient la souris de votre ordinateur : trackpad, souris gyroscopique, clavier et télécommande pour Mac, Windows, Linux et TV Samsung, LG ou Google TV. Gratuit, en Wi‑Fi, sans compte. Kotlin Multiplatform, en 8 langues.</p>
+      <em>Kotlin Multiplatform • Android • Desktop • Smart TV</em><br><br>
+      <a href="https://mouseos.app/fr/" target="_blank">
+        <img src="https://img.shields.io/badge/mouseos.app-FF4D00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="mouseos.app"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="100%">
+  <tr>
     <td align="center" width="50%">
       <h3>🍃 KanaClear</h3>
       <p>KanaClear est une plateforme SaaS de sevrage haute performance développée avec Supabase et Postgres. Elle remplace les "resets" binaires par un score de résilience scientifique, suivant la normalisation des récepteurs CB1 et l'épargne à la milliseconde via un écosystème évolutif de "Forêt Intérieure".</p>
