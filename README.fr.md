@@ -34,6 +34,19 @@
 
 <table align="center" width="100%">
   <tr>
+    <td align="center">
+      <h3>🔍 MarqueDispo</h3>
+      <p>Vérifiez en quelques secondes si un nom de marque est libre : domaines .fr / .com / .io, App Store, Google Play, notoriété web et pré-analyse du risque INPI, avec un score sur 100. Gratuit, sans inscription.</p>
+      <em>React • Cloudflare Workers • Vérifications DNS et stores en direct</em><br><br>
+      <a href="https://marquedispo.mathis-zerbib.workers.dev" target="_blank">
+        <img src="https://img.shields.io/badge/marquedispo-34D399?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MarqueDispo"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="100%">
+  <tr>
     <td align="center" width="50%">
       <h3>🍃 KanaClear</h3>
       <p>KanaClear est une plateforme SaaS de sevrage haute performance développée avec Supabase et Postgres. Elle remplace les "resets" binaires par un score de résilience scientifique, suivant la normalisation des récepteurs CB1 et l'épargne à la milliseconde via un écosystème évolutif de "Forêt Intérieure".</p>

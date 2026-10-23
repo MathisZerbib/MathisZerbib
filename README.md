@@ -34,6 +34,19 @@
 
 <table align="center" width="100%">
   <tr>
+    <td align="center">
+      <h3>🔍 MarqueDispo</h3>
+      <p>Check whether a brand name is free in seconds: .fr / .com / .io domains, App Store, Google Play, web notoriety and an INPI trademark risk pre-assessment, with a score out of 100. Free, no sign-up.</p>
+      <em>React • Cloudflare Workers • Live DNS & store lookups</em><br><br>
+      <a href="https://marquedispo.mathis-zerbib.workers.dev" target="_blank">
+        <img src="https://img.shields.io/badge/marquedispo-34D399?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MarqueDispo"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="100%">
+  <tr>
     <td align="center" width="50%">
       <h3>🍃 KanaClear</h3>
       <p>A high-performance withdrawal SaaS platform developed with Supabase and Postgres. It replaces binary "resets" with a scientific resilience score, tracking the normalization of CB1 receptors and millisecond-level savings through a scalable "Inner Forest" ecosystem.</p>
